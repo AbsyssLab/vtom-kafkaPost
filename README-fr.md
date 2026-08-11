@@ -2,8 +2,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](../../LICENSE.md)&nbsp;
 [![fr](https://img.shields.io/badge/lang-en-red.svg)](README.md)
 
-Le connecteur publie un message sur un topic Kafka depuis Visual TOM.  
-Les parametres metier passent en ligne de commande ; la cle et la securite passent par des variables d'environnement.
+Le connecteur publie un message sur un topic Kafka depuis Visual TOM.
 
 # Disclaimer
 Aucun support ni garanties ne seront fournis par Absyss SAS pour ce projet et fichiers associes. L'utilisation est a vos propres risques.

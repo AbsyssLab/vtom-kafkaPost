@@ -2,8 +2,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](../../LICENSE.md)&nbsp;
 [![en](https://img.shields.io/badge/lang-fr-red.svg)](README-fr.md)
 
-This connector publishes a message to a Kafka topic from Visual TOM.  
-Business parameters are passed on the command line; key and security settings come from environment variables.
+This connector publishes a message to a Kafka topic from Visual TOM.
 
 # Disclaimer
 No support or warranties will be provided by Absyss SAS for this project and associated files. Use is at your own risk.
